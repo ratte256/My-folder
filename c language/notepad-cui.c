@@ -7,13 +7,18 @@ void include_files();
 
 void frame_drawing()
 {
-  char frame[][] = 
-  char frame = {'+','-','-','-','-','-','-','-','-','+'}{'|',' ',' ',' ',' ',' ',' ',' ',' ','|'}
+  char frame1[] = {'+','-','-','-','-','-','-','-','-','+'}
+  char frame2[] = {'|',' ',' ',' ',' ',' ',' ',' ',' ','|'}
   for(j = 0; j < 10; j++)
+  {
+    printf(frame1[j]);
+  }
+  printf("\n")
+  for(k = 0; k < 10; k++)
   {
     for(int i = 0; i < 10; i++)
     {
-      printf(frame[j][i])
+      printf(frame2[i])
     }
     prntf("\n")
   }
