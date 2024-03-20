@@ -1,21 +1,16 @@
 #include <stdio.h>
-
-int RNG(int RNG_index, int Bit)
-{
-    RNG_index = RNG_index * 5 + 1 % Bit;
-    return 0;
-}
+#include <minb.h>
 
 int main()
 {
     int index;
     int bit = 4096;
 
-    printf("bit長は:");
+    printf("bit length is :");
     scanf("%d", &bit);
     printf("\n");
     
-    for (int i = 0; i > bit; i++)
+    for (int i = 0; i < bit; i++)
     {
         index = RNG(index,bit);
         printf("index = %d\n", index);
