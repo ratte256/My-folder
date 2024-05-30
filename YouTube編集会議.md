@@ -26,13 +26,13 @@
 ### このキャラの特徴
 ①コミュ障
 
-②
+②頭に√をつけてる(?)
 
-③
+③時代遅れ
 
-④
+④マイペース
 
-⑤
+⑤自由
 
 ⑥
 
@@ -42,5 +42,5 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NTUzMjgzXX0=
+eyJoaXN0b3J5IjpbLTc0Njk0OTYyMywzMTY1NTMyODNdfQ==
 -->
