@@ -6,6 +6,8 @@
 ## サブカラー
 ・青に合いそうな色
 
+・
+
 ## 性別
 
 
@@ -46,6 +48,6 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjg3NTM3OCwtNzQ2OTQ5NjIzLDMxNj
-U1MzI4M119
+eyJoaXN0b3J5IjpbNTQ3MTAyNDI1LDEwMjI4NzUzNzgsLTc0Nj
+k0OTYyMywzMTY1NTMyODNdfQ==
 -->
