@@ -10,6 +10,10 @@
 
 
 ## 名前
+<font size=6>㌃㌳₂</font>
+
+### 読み
+ルート2
 
 
 ## 性格
@@ -42,5 +46,6 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Njk0OTYyMywzMTY1NTMyODNdfQ==
+eyJoaXN0b3J5IjpbMTAyMjg3NTM3OCwtNzQ2OTQ5NjIzLDMxNj
+U1MzI4M119
 -->
