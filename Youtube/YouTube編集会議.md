@@ -28,9 +28,13 @@
 ## 特徴
 ### 例えば…
 ・さんみりとるさん：
+
 	頭に和室によくついている丸い明かりをつけている
+	
+	キャラクターのモチーフは堕天使+赤ちゃん
 
 ・ぜんこぱすさん：
+
 	くま。
 
 ### このキャラの特徴
@@ -52,7 +56,7 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NDQ3NTY4LC0xMTk5ODAxNDE2LDU0Nz
-EwMjQyNSwxMDIyODc1Mzc4LC03NDY5NDk2MjMsMzE2NTUzMjgz
-XX0=
+eyJoaXN0b3J5IjpbNzQ4NjAzNjk3LDg5NjQ0NzU2OCwtMTE5OT
+gwMTQxNiw1NDcxMDI0MjUsMTAyMjg3NTM3OCwtNzQ2OTQ5NjIz
+LDMxNjU1MzI4M119
 -->
