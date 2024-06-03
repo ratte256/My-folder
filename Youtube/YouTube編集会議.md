@@ -42,7 +42,7 @@
 
 ④マイペース
 
-⑤自由
+⑤
 
 ⑥静か
 
@@ -52,6 +52,7 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk4MDE0MTYsNTQ3MTAyNDI1LDEwMj
-I4NzUzNzgsLTc0Njk0OTYyMywzMTY1NTMyODNdfQ==
+eyJoaXN0b3J5IjpbMTI2MzYxOTI5NSwtMTE5OTgwMTQxNiw1ND
+cxMDI0MjUsMTAyMjg3NTM3OCwtNzQ2OTQ5NjIzLDMxNjU1MzI4
+M119
 -->
