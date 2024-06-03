@@ -21,6 +21,10 @@
 ## 性格
 ・自由
 
+・マイペース
+
+・静か
+
 ## 特徴
 ### 例えば…
 ・さんみりとるさん：
@@ -40,7 +44,7 @@
 
 ⑤自由
 
-⑥
+⑥静か
 
 ⑦
 
@@ -48,6 +52,6 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDc0OTk0Myw1NDcxMDI0MjUsMTAyMj
-g3NTM3OCwtNzQ2OTQ5NjIzLDMxNjU1MzI4M119
+eyJoaXN0b3J5IjpbLTExOTk4MDE0MTYsNTQ3MTAyNDI1LDEwMj
+I4NzUzNzgsLTc0Njk0OTYyMywzMTY1NTMyODNdfQ==
 -->
