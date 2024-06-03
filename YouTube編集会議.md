@@ -19,7 +19,7 @@
 
 
 ## 性格
-
+・自由
 
 ## 特徴
 ### 例えば…
@@ -48,6 +48,6 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MTAyNDI1LDEwMjI4NzUzNzgsLTc0Nj
-k0OTYyMywzMTY1NTMyODNdfQ==
+eyJoaXN0b3J5IjpbLTMyMDc0OTk0Myw1NDcxMDI0MjUsMTAyMj
+g3NTM3OCwtNzQ2OTQ5NjIzLDMxNjU1MzI4M119
 -->
