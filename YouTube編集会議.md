@@ -40,11 +40,11 @@
 
 ③時代遅れ
 
-④マイペース
+④静か
 
 ⑤
 
-⑥静か
+⑥
 
 ⑦
 
@@ -52,7 +52,7 @@
 
 ⑨バカ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzYxOTI5NSwtMTE5OTgwMTQxNiw1ND
-cxMDI0MjUsMTAyMjg3NTM3OCwtNzQ2OTQ5NjIzLDMxNjU1MzI4
-M119
+eyJoaXN0b3J5IjpbODk2NDQ3NTY4LC0xMTk5ODAxNDE2LDU0Nz
+EwMjQyNSwxMDIyODc1Mzc4LC03NDY5NDk2MjMsMzE2NTUzMjgz
+XX0=
 -->
